@@ -165,13 +165,6 @@ View detailed execution logs:
 - 🔄 Create multiple workflows for different use cases
 - 📊 Set up evaluations to test different configurations
 
-## 📈 Usage Stats
-
-**Your Current Plan:**
-- ⏰ 3 days left in trial
-- 📊 0/1000 executions used
-- ⭐ 155,656 stars (community popularity)
-
 ## 🔧 Troubleshooting
 
 ### Common Issues

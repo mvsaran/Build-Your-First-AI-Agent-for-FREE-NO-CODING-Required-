@@ -4,6 +4,16 @@
 
 This guide will walk you through creating an intelligent AI automation workflow that responds to chat messages and provides information about AI Automation Testing. No coding experience required!
 
+## 🛠️ Platform
+
+This tutorial uses **n8n** - a powerful workflow automation platform that lets you build complex automations visually without writing code.
+
+**n8n: Workflow Automation Platform**
+- 🌐 Official Website: [https://www.n8n.io](https://www.n8n.io)
+- 📖 Documentation: [https://docs.n8n.io](https://docs.n8n.io)
+- 💡 Fair-code licensed workflow automation tool
+- 🔧 Self-hostable with 400+ integrations
+
 ## ✨ What You'll Build
 
 An AI-powered chatbot workflow that:
@@ -18,8 +28,9 @@ An AI-powered chatbot workflow that:
 Before starting, you'll need:
 
 1. **Account Creation** (Free)
-   - Sign up at the automation platform shown in the screenshots
+   - Sign up at [n8n.io](https://www.n8n.io)
    - Get free trial access (3 days with 0/1000 executions included)
+   - Or self-host n8n on your own infrastructure
 
 2. **API Keys** (Free tiers available)
    - Google Gemini API key ([Get it here](https://makersuite.google.com/app/apikey))
@@ -29,7 +40,7 @@ Before starting, you'll need:
 
 ### Step 1: Create Your Workflow
 
-1. Navigate to **"My workflow"** in the platform
+1. Navigate to **"My workflow"** in the n8n platform
 2. Click **"+ Add tag"** to organize your project
 3. Access the **Editor** tab (shown at the top)
 
@@ -165,6 +176,13 @@ View detailed execution logs:
 - 🔄 Create multiple workflows for different use cases
 - 📊 Set up evaluations to test different configurations
 
+## 📈 Usage Stats
+
+**Your Current Plan:**
+- ⏰ 3 days left in trial
+- 📊 0/1000 executions used
+- ⭐ 155,656 stars (community popularity)
+
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -186,7 +204,7 @@ View detailed execution logs:
 ## 🎓 What You've Learned
 
 By completing this tutorial, you now know how to:
-- ✅ Build no-code AI automation workflows
+- ✅ Build no-code AI automation workflows with n8n
 - ✅ Integrate Google Gemini AI for intelligent responses
 - ✅ Implement conversation memory
 - ✅ Add web search capabilities
@@ -212,14 +230,21 @@ By completing this tutorial, you now know how to:
 
 ## 📚 Resources
 
+- [n8n Official Website](https://www.n8n.io)
+- [n8n Documentation](https://docs.n8n.io)
+- [n8n Community Forum](https://community.n8n.io)
 - [Google Gemini API Documentation](https://ai.google.dev/)
 - [SerpAPI Documentation](https://serpapi.com/docs)
-- Platform Documentation (check your specific platform's docs)
 
+## 👨‍💻 About the Author
 
-## 📝 Author
+**Saran Kumar**
+- Creator of this n8n AI automation tutorial
+- Passionate about no-code AI solutions and workflow automation
 
-Saran Kumar
+## 📝 License
+
+This tutorial is provided as-is for educational purposes. Make sure to comply with all API terms of service and usage policies.
 
 ---
 
